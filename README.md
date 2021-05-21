@@ -1,1 +1,3 @@
 # Aerodynamic-Design-for-a-Rotor-Blade
+
+Perform the aerodynamic design for a rotor blade. Given some basic requirements for the turbine design, appropriately determine a size for the turbine (rotor diameter, number of blades), then create a Betz-optimum rotor design including the effects of wake rotation. Use your Betz optimum MATLAB code to create this design. Assume the combined efficiency of the drive train (shaft, gear box, etc.) and generator to be 80%. Assume the wind speed at which the turbine achieves its rated power output is 12 m/s. Desired Rated Power Output at Sea Level	7MW Design wind speed	10 m/s Design hub height	110 m 
